@@ -8,10 +8,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Associate+Software+Engineer;Enterprise+Java+%26+Spring+Boot+Architectures;Full-Stack+Web+%26+Distributed+Systems;React+%7C+Angular+%7C+MySQL+%7C+Docker;Designing+Scalable+%26+Fault-Tolerant+Software" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dulith%20Thenuka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulith-thenuka-0a85443b0)
-[![GitHub](https://img.shields.io/badge/GitHub-DulithThenuka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DulithThenuka)
-[![Email](https://img.shields.io/badge/Email-duliththenuka912%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duliththenuka912@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Colombo,Sri+Lanka)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dulith-thenuka-0a85443b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dulith_Thenuka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DulithThenuka" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DulithThenuka-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:duliththenuka912@gmail.com">
+    <img src="https://img.shields.io/badge/Email-duliththenuka912@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://maps.google.com/?q=Colombo,Sri+Lanka" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Colombo,_Sri_Lanka-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </a>
+</p>
 
 </div>
 
